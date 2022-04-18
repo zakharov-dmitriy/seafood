@@ -419,7 +419,8 @@ button {
 .icon {
    width: 40px;
    height: 40px;
-   fill:#232222;
+   fill: #C4C4C4;
+   transition: fill 0.4s ease;
 }
 .icon:hover {
    fill: var(--blue);
